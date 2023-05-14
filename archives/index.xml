@@ -5,6 +5,8 @@
     <link>https://inarutosai7.github.io/archives/</link>
     <description>Recent content in Archives on 貓貓叫</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="https://inarutosai7.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language>
+    <managingEditor>inarutosai@gmail.com (Claire Chen)</managingEditor>
+    <webMaster>inarutosai@gmail.com (Claire Chen)</webMaster><atom:link href="https://inarutosai7.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

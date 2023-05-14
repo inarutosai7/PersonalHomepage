@@ -6,12 +6,14 @@
     <description>Recent content in japanese on 貓貓叫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
+    <managingEditor>inarutosai@gmail.com (Claire Chen)</managingEditor>
+    <webMaster>inarutosai@gmail.com (Claire Chen)</webMaster>
     <lastBuildDate>Wed, 02 Jan 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://inarutosai7.github.io/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>日本語テスト</title>
       <link>https://inarutosai7.github.io/2013/01/japanese-test/</link>
       <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/2013/01/japanese-test/</guid>
       <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;</description>
     </item>

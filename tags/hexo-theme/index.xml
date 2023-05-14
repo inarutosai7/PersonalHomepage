@@ -6,14 +6,16 @@
     <description>Recent content in hexo theme on 貓貓叫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://inarutosai7.github.io/tags/hexo-theme/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>inarutosai@gmail.com (Claire Chen)</managingEditor>
+    <webMaster>inarutosai@gmail.com (Claire Chen)</webMaster>
+    <lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://inarutosai7.github.io/tags/hexo-theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to Tranquilpeak 0.5.3-BETA</title>
-      <link>https://inarutosai7.github.io/2015/06/welcome-to-tranquilpeak-0.5.3-beta/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://inarutosai7.github.io/2015/06/welcome-to-tranquilpeak-0.5.3-beta/</guid>
-      <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.&lt;/p&gt;</description>
+      <title>盡情的在這裡貓貓叫</title>
+      <link>https://inarutosai7.github.io/2023/05/%E7%9B%A1%E6%83%85%E7%9A%84%E5%9C%A8%E9%80%99%E8%A3%A1%E8%B2%93%E8%B2%93%E5%8F%AB/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <author>inarutosai@gmail.com (Claire Chen)</author>
+      <guid>https://inarutosai7.github.io/2023/05/%E7%9B%A1%E6%83%85%E7%9A%84%E5%9C%A8%E9%80%99%E8%A3%A1%E8%B2%93%E8%B2%93%E5%8F%AB/</guid>
+      <description>&lt;p&gt;貓貓叫測試&lt;/p&gt;</description>
     </item>
     
   </channel>

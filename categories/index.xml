@@ -6,12 +6,14 @@
     <description>Recent content in Categories on 貓貓叫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://inarutosai7.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>inarutosai@gmail.com (Claire Chen)</managingEditor>
+    <webMaster>inarutosai@gmail.com (Claire Chen)</webMaster>
+    <lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://inarutosai7.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>releases</title>
       <link>https://inarutosai7.github.io/categories/releases/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/categories/releases/</guid>
       <description></description>
     </item>
@@ -19,8 +21,8 @@
     <item>
       <title>tranquilpeak</title>
       <link>https://inarutosai7.github.io/categories/tranquilpeak/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/categories/tranquilpeak/</guid>
       <description></description>
     </item>
@@ -29,7 +31,7 @@
       <title>showcase</title>
       <link>https://inarutosai7.github.io/categories/showcase/</link>
       <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/categories/showcase/</guid>
       <description></description>
     </item>
@@ -38,7 +40,7 @@
       <title>features</title>
       <link>https://inarutosai7.github.io/categories/features/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/categories/features/</guid>
       <description></description>
     </item>

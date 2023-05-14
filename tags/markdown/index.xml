@@ -6,12 +6,14 @@
     <description>Recent content in markdown on 貓貓叫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
+    <managingEditor>inarutosai@gmail.com (Claire Chen)</managingEditor>
+    <webMaster>inarutosai@gmail.com (Claire Chen)</webMaster>
     <lastBuildDate>Thu, 28 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://inarutosai7.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elements showcase</title>
       <link>https://inarutosai7.github.io/2015/05/elements-showcase/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/2015/05/elements-showcase/</guid>
       <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.&lt;/p&gt;</description>
     </item>

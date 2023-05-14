@@ -6,12 +6,14 @@
     <description>Recent content in Tags on 貓貓叫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://inarutosai7.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>inarutosai@gmail.com (Claire Chen)</managingEditor>
+    <webMaster>inarutosai@gmail.com (Claire Chen)</webMaster>
+    <lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://inarutosai7.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>disqus</title>
       <link>https://inarutosai7.github.io/tags/disqus/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/disqus/</guid>
       <description></description>
     </item>
@@ -19,8 +21,8 @@
     <item>
       <title>google analytics</title>
       <link>https://inarutosai7.github.io/tags/google-analytics/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/google-analytics/</guid>
       <description></description>
     </item>
@@ -28,8 +30,8 @@
     <item>
       <title>gravatar</title>
       <link>https://inarutosai7.github.io/tags/gravatar/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/gravatar/</guid>
       <description></description>
     </item>
@@ -37,8 +39,8 @@
     <item>
       <title>hexo theme</title>
       <link>https://inarutosai7.github.io/tags/hexo-theme/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/hexo-theme/</guid>
       <description></description>
     </item>
@@ -46,8 +48,8 @@
     <item>
       <title>responsive</title>
       <link>https://inarutosai7.github.io/tags/responsive/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/responsive/</guid>
       <description></description>
     </item>
@@ -56,7 +58,7 @@
       <title>html elements</title>
       <link>https://inarutosai7.github.io/tags/html-elements/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/html-elements/</guid>
       <description></description>
     </item>
@@ -65,7 +67,7 @@
       <title>markdown</title>
       <link>https://inarutosai7.github.io/tags/markdown/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/markdown/</guid>
       <description></description>
     </item>
@@ -74,7 +76,7 @@
       <title>cover image</title>
       <link>https://inarutosai7.github.io/tags/cover-image/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/cover-image/</guid>
       <description></description>
     </item>
@@ -83,7 +85,7 @@
       <title>github theme</title>
       <link>https://inarutosai7.github.io/tags/github-theme/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/github-theme/</guid>
       <description></description>
     </item>
@@ -92,7 +94,7 @@
       <title>highlight code</title>
       <link>https://inarutosai7.github.io/tags/highlight-code/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/highlight-code/</guid>
       <description></description>
     </item>
@@ -101,7 +103,7 @@
       <title>test</title>
       <link>https://inarutosai7.github.io/tags/test/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/test/</guid>
       <description></description>
     </item>
@@ -110,7 +112,7 @@
       <title>tag plugins</title>
       <link>https://inarutosai7.github.io/tags/tag-plugins/</link>
       <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/tag-plugins/</guid>
       <description></description>
     </item>
@@ -119,7 +121,7 @@
       <title>social</title>
       <link>https://inarutosai7.github.io/tags/social/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/social/</guid>
       <description></description>
     </item>
@@ -128,7 +130,7 @@
       <title>tags</title>
       <link>https://inarutosai7.github.io/tags/tags/</link>
       <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/tags/</guid>
       <description></description>
     </item>
@@ -137,7 +139,7 @@
       <title>pagination</title>
       <link>https://inarutosai7.github.io/tags/pagination/</link>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/pagination/</guid>
       <description></description>
     </item>
@@ -146,7 +148,7 @@
       <title>dailymotion</title>
       <link>https://inarutosai7.github.io/tags/dailymotion/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/dailymotion/</guid>
       <description></description>
     </item>
@@ -155,7 +157,7 @@
       <title>videos integration</title>
       <link>https://inarutosai7.github.io/tags/videos-integration/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/videos-integration/</guid>
       <description></description>
     </item>
@@ -164,7 +166,7 @@
       <title>vimeo</title>
       <link>https://inarutosai7.github.io/tags/vimeo/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/vimeo/</guid>
       <description></description>
     </item>
@@ -173,7 +175,7 @@
       <title>youtube</title>
       <link>https://inarutosai7.github.io/tags/youtube/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/youtube/</guid>
       <description></description>
     </item>
@@ -182,7 +184,7 @@
       <title>chinese</title>
       <link>https://inarutosai7.github.io/tags/chinese/</link>
       <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/chinese/</guid>
       <description></description>
     </item>
@@ -191,7 +193,7 @@
       <title>image gallery</title>
       <link>https://inarutosai7.github.io/tags/image-gallery/</link>
       <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/image-gallery/</guid>
       <description></description>
     </item>
@@ -200,7 +202,7 @@
       <title>japanese</title>
       <link>https://inarutosai7.github.io/tags/japanese/</link>
       <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
-      
+      <author>inarutosai@gmail.com (Claire Chen)</author>
       <guid>https://inarutosai7.github.io/tags/japanese/</guid>
       <description></description>
     </item>
